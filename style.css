@@ -1,0 +1,30 @@
+.container{
+    width: 500px;
+   
+}
+.A{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    padding: 10px;
+
+}
+
+.E{
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    padding: 10px;
+
+}
+.B, .C, .D{
+    border: 1px solid black;
+    padding: 10px;
+
+}
+
+div :hover{
+    background-color: coral;
+
+
+}
